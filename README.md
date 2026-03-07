@@ -91,7 +91,7 @@ def preprocess_text(text):
     return text
 ```
 
-**Why each step:**
+**Why each steps:**
 1. **Lowercase** → Normalizes "BOUGHT" and "bought" to same token
 2. **Remove URLs** → Social posts often have links that add noise
 3. **Remove @/#** → Mentions/hashtags don't carry financial intent
