@@ -1,4 +1,4 @@
-# 🏦 FinBehavior AI — Project Documentation
+# 🏦 FinBehavior AI — Project Documentations
 
 > **Social Behavioral Credit Intelligence Platform**
 > Analyze financial behavior from social media posts using AI — Consent-Based & Privacy-First
