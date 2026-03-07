@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+transformers>=4.35.0
+torch>=2.0.0
+pandas>=2.0.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
+fpdf2>=2.7.0
+matplotlib>=3.8.0
+fastapi
+uvicorn
+praw>=7.7.0
+tweepy>=4.14.0
+python-dotenv>=1.0.0
