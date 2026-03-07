@@ -5,7 +5,7 @@
 
 ---
 
-## 📁 Project Structure
+## 📁Clean Project Structure
 
 ```
 FinBehaviorAI/
